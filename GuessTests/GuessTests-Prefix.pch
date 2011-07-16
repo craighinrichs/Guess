@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'GuessTests' target in the 'GuessTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
